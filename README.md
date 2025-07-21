@@ -13,15 +13,25 @@ This project presents a comprehensive sales and product analysis for Blinkit usi
 🎯 Objectives
 
 Analyze sales trends based on product and outlet attributes
+
 Identify key performance indicators (KPIs) such as:
+
 Total Sales
+
 Average Sales
+
 Number of Items Sold
+
 Average Customer Rating
+
 Visualize data to assist decision-making around:
+
 Product categories
+
 Fat content
+
 Outlet size, type, and location
+
 
 📊 Business Questions Answered:
 
