@@ -26,5 +26,7 @@ Outlet size, type, and location
 📊 Business Questions Answered:
 
 Which product types generate the highest revenue?
+
 How does fat content impact total sales?
+
 What is the sales distribution across different outlet types?
